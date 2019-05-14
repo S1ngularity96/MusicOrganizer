@@ -10,4 +10,4 @@ Die App funktioniert mit der aktuellen .NET API.
 - Bitrate und Musikformat wählen
 - Daten verschieben 
 
-![](https://github.com/S1ngularity96/MusicOrganizer/image/screenshot.jpg "MusicOrganizer GUI")
+![](/image/screenshot.jpg "MusicOrganizer GUI")
